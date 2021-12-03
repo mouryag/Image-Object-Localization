@@ -1,4 +1,13 @@
 # Image-Object-Localization-
 This is a Object Localization problem in which we find what the object is in the image(image classification) and where the object is present in the image and draw bounding boxes(Object Localization).It involves both classification and regression problems.
 <br><br>
-Image classification involves predicting the class of one object in an image. **Object localization** refers to identifying the location of one or more objects in an image and drawing abounding box around their extent. Object detection combines these two tasks and localizes and classifies one or more objects in an image.
+
+**Image Classification**: Predict the type or class of an object in an image.
+<br>Input: An image with a single object, such as a photograph.
+Output: A class label (e.g. one or more integers that are mapped to class labels).
+**Object Localization**: Locate the presence of objects in an image and indicate their location with a bounding box.
+<br>Input: An image with one or more objects, such as a photograph.
+Output: One or more bounding boxes (e.g. defined by a point, width, and height).
+**Object Detection**: Locate the presence of objects with a bounding box and types or classes of the located objects in an image.
+<br>Input: An image with one or more objects, such as a photograph.
+Output: One or more bounding boxes (e.g. defined by a point, width, and height), and a class label for each bounding box
