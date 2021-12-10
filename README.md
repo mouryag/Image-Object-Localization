@@ -35,3 +35,17 @@ We know that for the three classes we would like to apply the softmax activation
 
 <br><br><br>
 ![localize1](outputs/localize1.PNG)
+<br><br>
+![localize1](outputs/localize2.PNG)
+<br><br>
+![localize1](outputs/localize3.PNG)
+<br><br>
+![localize1](outputs/localize4.PNG)
+<br><br>
+![localize1](outputs/localize5.PNG)
+<br><br>
+![localize1](outputs/localize6.PNG)
+<br><br>
+![localize1](outputs/localize7.PNG)
+<br><br>
+![localize1](outputs/localize8.PNG)
