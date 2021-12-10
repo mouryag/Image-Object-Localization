@@ -47,5 +47,4 @@ We know that for the three classes we would like to apply the softmax activation
 ![localize1](outputs/localize6.PNG)
 <br><br>
 ![localize1](outputs/localize7.PNG)
-<br><br>
-![localize1](outputs/localize8.PNG)
+<br>
