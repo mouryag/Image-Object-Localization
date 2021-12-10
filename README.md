@@ -32,3 +32,6 @@ In our six example, we considered the case **where the objects need not appear**
 In seventnh example, we are going to consider the case where we have **multiple classes of objects** (Pokemons), so,for example, in a self-driving application, you will have to recognize people, traffic signs, cars,bicycles and so forth.
 <br><br>
 We know that for the three classes we would like to apply the softmax activation and for the other five we use sigmoid activation and custom loss function using Binary cross entropy and Categorical cross entropy.
+
+<br><br><br>
+![localize1](outputs/localize1.PNG)
